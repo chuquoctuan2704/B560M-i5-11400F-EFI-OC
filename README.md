@@ -7,6 +7,8 @@ Configuration:
 
 Processor：Intel Core i5-11400F Processor（Rocket Lake）
 
+Mainboad：Asus tuf gaming B560M
+
 Memory：Ram Corsair Vengeance LPX 16Gb 3200MHz DDR4
 
 Storage：Kingston NV2 500Gb (NVMe PCIe/ Gen4x4 M2.2280/ 3500MB/s/ 2100MB/s)
@@ -18,6 +20,6 @@ Wifi + bluetooth：BCM94360CS2
 PSU: CORSAIR CV550 80 PLUS BRONZE
 
 -----------------------------
-OS Supported: Monterey, Ventura
+OS Supported: Monterey, Ventura (now max 13.5)
 
 The features work well, no bugs found
