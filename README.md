@@ -1,7 +1,7 @@
 # B560M-i5-11400F-EFI-OC
 
 EFI B560M + i5 11400F + Rx 5500XT
-OC 0.8.4
+OC 0.9.3
 -----------------------------
 Configuration:
 
@@ -20,6 +20,6 @@ Wifi + bluetooth：BCM94360CS2
 PSU: CORSAIR CV550 80 PLUS BRONZE
 
 -----------------------------
-OS Supported: Monterey, Ventura (now max 13.5)
+OS Supported: Sonoma (14.7.4)
 
 The features work well, no bugs found
